@@ -2,7 +2,7 @@ class Quotescape < Formula
   desc "Generate beautiful quote wallpapers for your desktop"
   homepage "https://github.com/codeabiswas/quotescape"
   url "https://github.com/codeabiswas/quotescape/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "PLACEHOLDER_SHA256"  # Will be replaced with actual SHA256 after release
+  sha256 "fc1af0e082b24f03ee4c25eb537a35c096cf9972e3c52d82fac97ccd4754c61d"
   license "MIT"
   head "https://github.com/codeabiswas/quotescape.git", branch: "main"
 
